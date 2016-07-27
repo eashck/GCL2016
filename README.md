@@ -1,0 +1,1 @@
+# GCL2016 Global CyberLympics, the world's first international ethical hacking cyber game, is a nonprofit online cybersecurity competition that consists of one online preliminary round with challenges in the following areas: Digital Forensics, Web Application Exploitation, System Exploitation, Malware Analysis, Reverse Engineering, Crytography and more.
