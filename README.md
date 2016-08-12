@@ -7,4 +7,6 @@ I intend to put the writeups ASAP as well.
 
 Fell free to contribute.
 
+7z passwords are in Challenges file.
+
 Eash#
